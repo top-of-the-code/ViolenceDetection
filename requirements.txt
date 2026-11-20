@@ -1,0 +1,4 @@
+kaggle
+numpy
+opencv-python
+torch
