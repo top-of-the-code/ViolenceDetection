@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Violence Detection
 
 ## Data
@@ -14,3 +15,6 @@ To download it:
 
 ## Citation
 Soliman et al., "Violence Recognition from Videos using Deep Learning Techniques", 2019.
+=======
+# ViolenceDetection
+>>>>>>> 95937cf67bb78cefa5023af684d467015cc2c5da
