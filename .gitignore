@@ -1,7 +1,6 @@
-data/
-*.mp4
-*.avi
-*.zip
+data/*
+!data/AIRTLAB_FOLDER/
+!data/WVD_FOLDER/
 kaggle.json
 access_token
 .env
